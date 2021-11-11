@@ -147,6 +147,7 @@ a:hover {
     font-size: 36px;
     text-align: center;
     margin-top: 50px;
+    flex-wrap: wrap;
 }
 
 #services-images {
